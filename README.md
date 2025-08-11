@@ -32,7 +32,7 @@ Berikut adalah deskripsi variabel utama:
 - Country	: Negara asal pelanggan.
 
 ## Data Preparation
-angkah-langkah pembersihan data sebelum analisis:
+Langkah-langkah pembersihan data sebelum analisis:
 
 1. Menghapus nilai duplikat untuk menghindari perhitungan ganda.
 
